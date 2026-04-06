@@ -22,7 +22,7 @@
     "@happy-dom/global-registrator": "17.0.3",
     "@napi-rs/canvas": "0.1.65",
     "@nestjs/common": "11.0.3",
-    "@nestjs/core": "11.0.3",
+    "@nestjs/core": "11.1.18",
     "@prisma/client": "5.8.0",
     "@remix-run/node": "2.16.8",
     "@remix-run/react": "2.10.3",
